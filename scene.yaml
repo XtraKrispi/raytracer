@@ -1,0 +1,26 @@
+light: 
+  position:
+    x: 1
+    y: 2
+    z: 3
+  brightness: 1.5
+camera:
+  position:
+    x: 1
+    y: 2
+    z: 3
+  lookingAt:
+    x: 1
+    y: 2
+    z: 3
+objects:
+  - type: "sphere"
+    pos: 
+      x: 1
+      y: 2
+      z: 3
+  - type: "cube"
+    pos:  
+      x: 1
+      y: 2
+      z: 3
